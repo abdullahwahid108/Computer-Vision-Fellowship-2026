@@ -35,8 +35,5 @@ Computer-Vision-Fellowship-2026/
 - [x] OpenCV Experiments Notebook — `notebooks/opencv_experiments.ipynb`
 - [x] Architecture Diagram — `docs/architecture_documentation.docx`
 - [x] Builder Journal — `docs/builder_journal.docx`
-- [ ] Demo Video (record and link here — **not something I can do for you**)
-- [ ] Installation screenshots (must be captured on your own machine — **not something I can do for you**)
-
 ## Demo Video
-[Watch the Vision Toolkit Demo](https://youtu.be/your-actual-video-id)
+[Watch the Vision Toolkit Demo](https://youtu.be/taQwe7jsNWY)
