@@ -39,4 +39,4 @@ Computer-Vision-Fellowship-2026/
 - [ ] Installation screenshots (must be captured on your own machine — **not something I can do for you**)
 
 ## Demo Video
-`[https://youtu.be/taQwe7jsNWY]`
+[Watch the Vision Toolkit Demo](https://youtu.be/your-actual-video-id)
